@@ -1,5 +1,8 @@
 package springrefresher.demo.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class PacManGame implements GamingConsole {
 
     @Override
