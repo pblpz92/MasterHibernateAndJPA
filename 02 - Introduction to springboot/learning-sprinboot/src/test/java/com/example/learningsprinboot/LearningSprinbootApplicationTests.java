@@ -1,10 +1,10 @@
-package springrefresher.demo;
+package com.example.learningsprinboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class LearningSprinbootApplicationTests {
 
 	@Test
 	void contextLoads() {
